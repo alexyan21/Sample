@@ -1,3 +1,5 @@
-BI dashboard: 
-spotify(personal) - https://app.powerbi.com/view?r=eyJrIjoiZGZkZjNmMWUtYzZmYi00NDk2LWJlNWQtMjQ2MTZiZjkyYmMwIiwidCI6ImY2YzhmMzFjLTdjNDgtNDQ4My05ZTU1LTY4NGExNDk0OTJhYyIsImMiOjN9
-The dobbs report(real eatate): https://app.powerbi.com/view?r=eyJrIjoiODlhZTZmZDUtMTRkMC00ZTlkLWEzNjItZTAyZmJjNTQ3NTdkIiwidCI6ImY2YzhmMzFjLTdjNDgtNDQ4My05ZTU1LTY4NGExNDk0OTJhYyIsImMiOjN9
+Spotify(personal):
+https://app.powerbi.com/view?r=eyJrIjoiZGZkZjNmMWUtYzZmYi00NDk2LWJlNWQtMjQ2MTZiZjkyYmMwIiwidCI6ImY2YzhmMzFjLTdjNDgtNDQ4My05ZTU1LTY4NGExNDk0OTJhYyIsImMiOjN9
+
+The dobbs report(real eatate):
+https://app.powerbi.com/view?r=eyJrIjoiODlhZTZmZDUtMTRkMC00ZTlkLWEzNjItZTAyZmJjNTQ3NTdkIiwidCI6ImY2YzhmMzFjLTdjNDgtNDQ4My05ZTU1LTY4NGExNDk0OTJhYyIsImMiOjN9
